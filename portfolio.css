@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+    font-style: italic;
+    height: 100%;
+    width: 60%;
+    margin-left: 21%;
+}
+img{
+    height: 200px;
+    width: 165px;
+}
+.Personal{
+    color: wheat;
+    
+}
+
